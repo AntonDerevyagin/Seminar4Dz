@@ -10,20 +10,20 @@ int MethodRead(string messege)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-void MethodDegree(int a, int b)
+void MethodDegree(int A, int B)
 {
     int res = 1;
-    for (int i = 1; i <= b; i++)
+    for (int i = 1; i <= B; i++)
     {
-        res = res * a;
+        res = res * A;
         
     }
     Console.WriteLine(res);
 
 }
 
-int numberA = MethodRead("Введите число А: ");
-int numberB = MethodRead("Введите число B: ");
-MethodDegree(numberA, numberB);
+int A = MethodRead("Введите число А: ");
+int B = MethodRead("Введите число B: ");
+MethodDegree(A,B);
 
 

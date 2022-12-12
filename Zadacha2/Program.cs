@@ -22,5 +22,5 @@ void MethodSum(int number) //567
     Console.WriteLine(tot);
 }
 
-int number1 = MethodRead("Введите число: ");
-MethodSum(number1);
+int number = MethodRead("Введите число: ");
+MethodSum(number);
