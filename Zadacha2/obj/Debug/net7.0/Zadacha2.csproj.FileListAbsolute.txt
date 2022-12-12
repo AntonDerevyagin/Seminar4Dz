@@ -1,0 +1,15 @@
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.csproj.AssemblyReference.cache
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.AssemblyInfoInputs.cache
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.AssemblyInfo.cs
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.csproj.CoreCompileInputs.cache
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/bin/Debug/net7.0/Zadacha2
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/bin/Debug/net7.0/Zadacha2.deps.json
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/bin/Debug/net7.0/Zadacha2.runtimeconfig.json
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/bin/Debug/net7.0/Zadacha2.dll
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/bin/Debug/net7.0/Zadacha2.pdb
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.dll
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/refint/Zadacha2.dll
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.pdb
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/Zadacha2.genruntimeconfig.cache
+/Users/antonderevagin/Documents/Seminar3Dz/Zadacha2/obj/Debug/net7.0/ref/Zadacha2.dll
